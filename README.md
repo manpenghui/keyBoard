@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # jk-keyboard
 
 一个为移动端页面设计的HTML数字键盘程序，依赖jQuery。
@@ -71,3 +72,7 @@
 ## License
 
 MIT
+=======
+# keyBoard
+js模拟数字键盘
+>>>>>>> 518d46e45909ef718bbe28789c15c21808825097
